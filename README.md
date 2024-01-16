@@ -45,6 +45,8 @@ The Deep Neural Network (DNN) represents a powerful class of machine learning mo
 ## Repository Structure
 📁 Heart_Disease_Prediction: Explore a comprehensive Jupyter notebook detailing the entire process of heart disease prediction using advanced machine learning algorithms. Gain insights into the models, their performance, and the methodology behind accurate predictions.
 
+📁 requirements.txt: This file lists the Python packages and their versions required for the Heart Disease Prediction Jupyter notebook.
+
 📁 Heart_Disease_Dataset: Access the heart disease dataset in CSV format, a key component for the analysis. Dive into the data and understand how features contribute to predictive modeling.
 
 📁 Project_Description:Uncover the purpose and goals of the project with a concise outline. Learn about the motivations driving this heart disease prediction initiative.
