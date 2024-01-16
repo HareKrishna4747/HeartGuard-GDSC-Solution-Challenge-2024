@@ -1,5 +1,5 @@
 
-# HeartGuard: Unleashing the Power of AI to Predict and Prevent Heart Disease:
+# HeartGuard: Unleashing the Power of AI to Predict and Prevent Heart Disease
 Cardiovascular diseases have increased significantly since the COVID-19 pandemic. Cardiovascular diseases are responsible for 19.7 million deaths worldwide. The number of deaths in India alone, stands at 4.77 million per year as of 2020. They have spiked by 60% globally in the last 30 years, owing to increased alcoholism, blood pressure, and physical inactivity among the main reasons. Four out of every five CVD deaths occur in middle to low-income countries. CVDs are detected using a number of laboratory tests and imaging studies, encompassing the patient's medical history along with his family's medical history. It also includes factors like age, sex, chest pain type, resting blood pressure, cholesterol levels, fasting blood sugar, resting electrocardiographic results, maximum heart rate achieved, exercise-induced angina, ST depression induced by exercise relative to rest, the slope of the peak exercise ST segment, the number of major vessels coloured by fluoroscopy, thalassemia type, and a target variable related to cardiovascular health.
 
 
