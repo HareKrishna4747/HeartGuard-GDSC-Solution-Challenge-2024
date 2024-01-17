@@ -11,7 +11,7 @@ Number of instances: 304
 Number of attributes: 14 ( 13 int64 and 1 float64)
 ## Machine Learning Algorithm
 The project employs the following machine learning algorithms:
-## Logistic Classifier:
+## Logistic Regression:
 The Logistic Classifier is a fundamental tool in supervised learning, specifically designed for binary classification tasks. It predicts the probability of an instance belonging to a particular class, utilizing a logistic function. It is widely employed due to its simplicity, efficiency, and interpretability.
 
 ## Random Forest Classifier
